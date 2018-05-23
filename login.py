@@ -7,3 +7,8 @@ num3 = 30
 
 str = 40
 
+def set():
+	flsdjfldfdfdf
+dfdkfjdlfdfjd
+fdflkdfd
+
